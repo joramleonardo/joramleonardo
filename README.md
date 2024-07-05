@@ -6,7 +6,7 @@
 </p>
 </br>
 <p align="center">
-<img align="center" alt="GIF" src="./code.gif" width="500" height="320" />
+<img align="center" alt="GIF" src="./cat.gif" width="500" height="320" />
 </p>
    <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> GitHub Profile Stats</h3>
 
