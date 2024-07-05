@@ -1,13 +1,12 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kalam&pause=1000&color=F73D83&random=false&width=435&lines=Hi!+Welcome+to+my+profile.;I'm+Joram+Kate!;Full+Stack+Web+Developer;5%2B+years+of+coding+experience" alt="Typing SVG" /></a>
 </br>
+  <h3>💻 GitHub Profile Stats</h3>
 
- <div>
-  <a href="https://github.com/joramleonardo">
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joramleonardo&layout=compact&langs_count=16&theme=dracula"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joramleonardo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
-</div>
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-</br>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=DenverCoder1&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <br/>
 <img src="https://c.tenor.com/U45Q8YaJzBUAAAAC/moti-hearts.gif" width="50">
 </br>
 
