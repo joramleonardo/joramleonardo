@@ -9,6 +9,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=joramleonardo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
 
+### 📊 GitHub Stats:
+<img align="left" alt="Docker" src="./profile-3d-contrib/profile-season-animate.svg" height="400px" />
+
 <!-- Tech Stack -->
 ## 🔧 Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1d1f21?style=flat&logo=javascript)
