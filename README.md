@@ -8,7 +8,7 @@
 </div>
 
 </br>
-Connect with me: ![Profile Views ](https://komarev.com/ghpvc/?username=samayun&label=Profile%20Views&color=3cb480)
+### <img src="https://c.tenor.com/9q2hehDWaQYAAAAi/sending-love-cute.gif" width="50">
 </br>
 
 <!-- Tech Stack -->
