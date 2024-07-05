@@ -1,9 +1,10 @@
 
+<img src="https://c.tenor.com/U45Q8YaJzBUAAAAC/moti-hearts.gif" width="50">
+</br>
 </br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kalam&pause=1000&color=F73D83&random=false&width=435&lines=Hi!+Welcome+to+my+profile.;I'm+Joram+Kate!;Full+Stack+Web+Developer;5%2B+years+of+coding+experience" alt="Typing SVG" /></a>
 </br>
-<img src="https://c.tenor.com/U45Q8YaJzBUAAAAC/moti-hearts.gif" width="50">
-   <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">GitHub Profile Stats</h3>
+   <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> GitHub Profile Stats</h3>
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
