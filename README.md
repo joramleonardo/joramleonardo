@@ -1,8 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kalam&pause=1000&color=F73D83&random=false&width=435&lines=Hi!+Welcome+to+my+profile.;I'm+Joram+Kate!;Full+Stack+Web+Developer;5%2B+years+of+coding+experience" alt="Typing SVG" /></a>
 </br>
 
-
-
  <div>
   <a href="https://github.com/joramleonardo">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joramleonardo&layout=compact&langs_count=16&theme=dracula"/>
