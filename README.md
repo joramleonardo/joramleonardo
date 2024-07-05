@@ -9,6 +9,7 @@
 
 </br>
 ### <img src="https://c.tenor.com/9q2hehDWaQYAAAAi/sending-love-cute.gif" width="50">
+### <img src="https://c.tenor.com/U45Q8YaJzBUAAAAC/moti-hearts.gif" width="50">
 </br>
 
 <!-- Tech Stack -->
