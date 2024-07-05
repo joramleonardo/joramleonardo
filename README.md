@@ -12,9 +12,9 @@
 </br>
 
  <div>
-  <a href="https://github.com/AreYouLucky">
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AreYouLucky&layout=compact&langs_count=16&theme=dracula"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AreYouLucky&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+  <a href="https://github.com/joramleonardo">
+   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joramleonardo&layout=compact&langs_count=16&theme=dracula"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joramleonardo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
 
 </br>
