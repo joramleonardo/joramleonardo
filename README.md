@@ -7,6 +7,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=joramleonardo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
 
+</br>
+Connect with me: ![Profile Views ](https://komarev.com/ghpvc/?username=samayun&label=Profile%20Views&color=3cb480)
+</br>
+
 <!-- Tech Stack -->
 ## 🔧 Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1d1f21?style=flat&logo=javascript)
