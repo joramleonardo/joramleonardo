@@ -1,6 +1,9 @@
 ## Hello, what brings you here todayss?
 </br>
 
+<!-- code gif-->
+<img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
+
  <div>
   <a href="https://github.com/joramleonardo">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joramleonardo&layout=compact&langs_count=16&theme=dracula"/>
