@@ -12,35 +12,16 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1d1f21?style=flat&logo=javascript)
 ![CSS3](https://img.shields.io/badge/-CSS3-1d1f21?style=flat&logo=CSS3&logoColor=1572B6)
 ![HTML5](https://img.shields.io/badge/-HTML5-1d1f21?style=flat&logo=HTML5&logoColor=E34F26)
-![Python](https://img.shields.io/badge/-Python-1d1f21?style=flat&logo=Python&logoColor=3776AB)
-![Svelte](https://img.shields.io/badge/-Svelte-1d1f21?style=flat&logo=Svelte&logoColor=FF3E00)
 ![JQuery](https://img.shields.io/badge/-JQuery-1d1f21?style=flat&logo=JQuery&logoColor=0769AD)
 ![SASS](https://img.shields.io/badge/-Sass-1d1f21?style=flat&logo=Sass&logoColor=CC6699)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-1d1f21?style=flat&logo=Bootstrap&logoColor=7952B3)
-![AWS](https://img.shields.io/badge/-Amazon%20AWS-1d1f21?style=flat&logo=Amazon-AWS&logoColor=ffffff)
 ![Wordpress](https://img.shields.io/badge/-Wordpress-1d1f21?style=flat&logo=Wordpress&logoColor=21759B)
 ![MySQL](https://img.shields.io/badge/-MySQL-1d1f21?style=flat&logo=MySQL&logoColor=4479A1)
-![Figma](https://img.shields.io/badge/-Figma-1d1f21?style=flat&logo=Figma&logoColor=F24E1E)
-![Vim](https://img.shields.io/badge/-Vim-1d1f21?style=flat&logo=Vim&logoColor=019733)
 ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-1d1f21?style=flat&logo=Visual-Studio-Code&logoColor=5C2D91)
-![Pycharm](https://img.shields.io/badge/-PyCharm-1d1f21?style=flat&logo=PyCharm&logoColor=ffffff)
-![Linux](https://img.shields.io/badge/-Linux-1d1f21?style=flat&logo=Linux&logoColor=FCC624)
 ![Bash](https://img.shields.io/badge/-GNU%20Bash-1d1f21?style=flat&logo=GNU-Bash&logoColor=4EAA25)
 ![Git](https://img.shields.io/badge/-Git-1d1f21?style=flat&logo=Git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-1d1f21?style=flat&logo=GitHub&logoColor=ffffff)
-![Gitlab](https://img.shields.io/badge/-Gitlab-1d1f21?style=flat&logo=Gitlab&logoColor=FC6D26)
  
- ## Skills
-<div style="display: inline_block"><br>
- <img height="40" align="center" alt="joramleonardo-Laravel" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" />
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <img height="40" align="center" alt="joramleonardo-Vue" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" align="center" alt="joramleonardo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" align="center" alt="joramleonardo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-         <img align="right" height="200em" alt="joramleonardo-yoda" style="z-index:1999" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExejdrcjZvZTY0M3JwMzYzaXltdGZ3cjU2amVrZXllMzFiNTQwbjhmZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QAsHga1AB6dIGUsui6/giphy.gif">
-</div>
+
   
 </br>
 
