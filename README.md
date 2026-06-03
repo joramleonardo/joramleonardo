@@ -1,52 +1,119 @@
-
 <img src="https://c.tenor.com/U45Q8YaJzBUAAAAC/moti-hearts.gif" width="50">
-</br>
+
+<br>
+
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kalam&size=24&duration=5001&pause=1000&color=EB3A7D&center=true&random=false&width=435&height=55&lines=Hi!+Welcome+to+my+profile.;I'm+Joram+Kate+Leonardo!;Full+Stack+Web+Developer;5%2B+years+of+coding+experience." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Kalam&size=24&duration=5001&pause=1000&color=EB3A7D&center=true&random=false&width=600&height=60&lines=Hi!+Welcome+to+my+profile.;I'm+Joram+Kate+Leonardo!;Full+Stack+Web+Developer;5%2B+years+of+coding+experience." 
+      alt="Typing SVG" 
+    />
+  </a>
 </p>
+
 <p align="center">
-<img align="center" alt="GIF" src="./cat.gif" width="500" height="320" />
+  <img align="center" alt="Coding Cat GIF" src="./cat.gif" width="500" height="320" />
 </p>
-   <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> GitHub Profile Stats</h3>
 
-</br>
+---
 
- <div>
-  <a href="https://github.com/joramleonardo">
-     <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joramleonardo&layout=compact&langs_count=16&theme=dracula"/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=joramleonardo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
-    <img align="center" height=202 src="https://github-readme-streak-stats.herokuapp.com/?user=joramleonardo&theme=radical"/>
-</div>
+## 👩‍💻 About Me
 
-</br>
+Hi! I'm **Joram Kate Leonardo**, a **Full Stack Web Developer** with experience building web applications using modern frontend and backend technologies.
 
+I enjoy working with:
 
-</br>
+- Frontend development
+- Backend development
+- Database design
+- Responsive web interfaces
+- Full stack web applications
 
-<!-- Tech Stack -->
+---
+
+## 📊 GitHub Profile Stats
+
+<p align="center">
+  <img 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api?username=joramleonardo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues" 
+    alt="GitHub Stats" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=joramleonardo&layout=compact&langs_count=12&theme=dracula&hide_border=false" 
+    alt="Top Languages" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    height="200" 
+    src="https://streak-stats.demolab.com?user=joramleonardo&theme=radical" 
+    alt="GitHub Streak" 
+  />
+</p>
+
+---
+
+## 🧠 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joramleonardo&layout=donut&langs_count=8&theme=dracula" alt="Most Used Languages" />
+</p>
+
+---
+
 ## 🔧 Technologies & Tools
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-1d1f21?style=flat&logo=javascript)
-![MySQL](https://img.shields.io/badge/-MySQL-1d1f21?style=flat&logo=MySQL&logoColor=4479A1)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1d1f21?style=flat&logo=CSS3&logoColor=1572B6)
-![HTML5](https://img.shields.io/badge/-HTML5-1d1f21?style=flat&logo=HTML5&logoColor=E34F26)
-![JQuery](https://img.shields.io/badge/-JQuery-1d1f21?style=flat&logo=JQuery&logoColor=0769AD)
-![SASS](https://img.shields.io/badge/-Sass-1d1f21?style=flat&logo=Sass&logoColor=CC6699)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-1d1f21?style=flat&logo=Bootstrap&logoColor=7952B3)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Sublime](https://img.shields.io/badge/-Sublime-333333?style=flat&logo=sublime-text&logoColor=ff9800)
-![Wordpress](https://img.shields.io/badge/-Wordpress-1d1f21?style=flat&logo=Wordpress&logoColor=21759B)
-![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-1d1f21?style=flat&logo=Visual-Studio-Code&logoColor=5C2D91)
- 
 
-  
-</br>
+### Frontend
 
+![HTML5](https://img.shields.io/badge/HTML5-1d1f21?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-1d1f21?style=flat-square&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-1d1f21?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-1d1f21?style=flat-square&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-1d1f21?style=flat-square&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-1d1f21?style=flat-square&logo=vue.js&logoColor=4FC08D)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-1d1f21?style=flat-square&logo=tailwind-css&logoColor=38B2AC)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-1d1f21?style=flat-square&logo=bootstrap&logoColor=7952B3)
+![Sass](https://img.shields.io/badge/Sass-1d1f21?style=flat-square&logo=sass&logoColor=CC6699)
+![jQuery](https://img.shields.io/badge/jQuery-1d1f21?style=flat-square&logo=jquery&logoColor=0769AD)
 
-</br>
- 
-  ![Snake animation](https://github.com/joramleonardo/joramleonardo/blob/main/github-contribution-grid-snake.svg)
- 
-</div>
+### Backend
+
+![PHP](https://img.shields.io/badge/PHP-1d1f21?style=flat-square&logo=php&logoColor=777BB4)
+![Laravel](https://img.shields.io/badge/Laravel-1d1f21?style=flat-square&logo=laravel&logoColor=FF2D20)
+![Node.js](https://img.shields.io/badge/Node.js-1d1f21?style=flat-square&logo=node.js&logoColor=339933)
+
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-1d1f21?style=flat-square&logo=mysql&logoColor=4479A1)
+![SQLite](https://img.shields.io/badge/SQLite-1d1f21?style=flat-square&logo=sqlite&logoColor=003B57)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-1d1f21?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-1d1f21?style=flat-square&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-1d1f21?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
+![Sublime Text](https://img.shields.io/badge/Sublime_Text-1d1f21?style=flat-square&logo=sublime-text&logoColor=ff9800)
+![WordPress](https://img.shields.io/badge/WordPress-1d1f21?style=flat-square&logo=wordpress&logoColor=21759B)
+
+---
+
+## 🚀 Current Focus
+
+- Building full stack web applications
+- Improving frontend UI/UX
+- Working with Laravel, React, Vue, and TypeScript
+- Creating clean and maintainable systems
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/joramleonardo/joramleonardo/blob/main/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
