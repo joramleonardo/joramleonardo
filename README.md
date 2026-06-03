@@ -31,38 +31,31 @@ I enjoy working with:
 
 ---
 
-## 📊 GitHub Profile Stats
+## 🧠 Languages I Use
 
 <p align="center">
-  <img 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api?username=joramleonardo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues" 
-    alt="GitHub Stats" 
-  />
+  <img src="https://img.shields.io/badge/PHP-1d1f21?style=for-the-badge&logo=php&logoColor=777BB4" />
+  <img src="https://img.shields.io/badge/JavaScript-1d1f21?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-1d1f21?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/HTML5-1d1f21?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-1d1f21?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/SQL-1d1f21?style=for-the-badge&logo=mysql&logoColor=4479A1" />
 </p>
 
-<p align="center">
-  <img 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=joramleonardo&layout=compact&langs_count=12&theme=dracula&hide_border=false" 
-    alt="Top Languages" 
-  />
-</p>
+## 🔧 Frameworks & Tools
 
 <p align="center">
-  <img 
-    height="200" 
-    src="https://streak-stats.demolab.com?user=joramleonardo&theme=radical" 
-    alt="GitHub Streak" 
-  />
-</p>
-
----
-
-## 🧠 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joramleonardo&layout=donut&langs_count=8&theme=dracula" alt="Most Used Languages" />
+  <img src="https://img.shields.io/badge/Laravel-1d1f21?style=for-the-badge&logo=laravel&logoColor=FF2D20" />
+  <img src="https://img.shields.io/badge/React-1d1f21?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vue.js-1d1f21?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-1d1f21?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" />
+  <img src="https://img.shields.io/badge/Bootstrap-1d1f21?style=for-the-badge&logo=bootstrap&logoColor=7952B3" />
+  <img src="https://img.shields.io/badge/jQuery-1d1f21?style=for-the-badge&logo=jquery&logoColor=0769AD" />
+  <img src="https://img.shields.io/badge/WordPress-1d1f21?style=for-the-badge&logo=wordpress&logoColor=21759B" />
+  <img src="https://img.shields.io/badge/MySQL-1d1f21?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+  <img src="https://img.shields.io/badge/Git-1d1f21?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/GitHub-1d1f21?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-1d1f21?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" />
 </p>
 
 ---
