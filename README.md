@@ -25,7 +25,6 @@ Hi! I'm **Joram Kate Leonardo**, a **Full Stack Web Developer** with **6+ years 
 - 💼 **Primary Stack**: Laravel 12 & Inertia.js v2 with React 19 / Vue 3, Python 3.12 (Django 6), and TypeScript
 - 📊 **Data & Reporting**: Automated reporting pipelines, document generation (PDF/Excel), and data analysis using Python (Pandas, Matplotlib, ReportLab)
 - 🔒 **System Architecture**: High-concurrency control, pessimistic locking, polymorphic audit trails, and multi-tier RBAC workflows
-- 📱 **Mobile**: Cross-platform application development with Flutter & Dart
 
 ---
 
@@ -76,10 +75,6 @@ Hi! I'm **Joram Kate Leonardo**, a **Full Stack Web Developer** with **6+ years 
 ![Pandas](https://img.shields.io/badge/Pandas-1d1f21?style=flat-square&logo=pandas&logoColor=150458)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-1d1f21?style=flat-square&logo=python&logoColor=white)
 
-### Mobile
-![Flutter](https://img.shields.io/badge/Flutter-1d1f21?style=flat-square&logo=flutter&logoColor=02569B)
-![Dart](https://img.shields.io/badge/Dart-1d1f21?style=flat-square&logo=dart&logoColor=0175C2)
-
 ### Testing & Quality
 ![Pest](https://img.shields.io/badge/Pest_PHP-1d1f21?style=flat-square&logo=php&logoColor=FF2D20)
 ![PHPUnit](https://img.shields.io/badge/PHPUnit-1d1f21?style=flat-square&logo=php&logoColor=white)
@@ -101,7 +96,6 @@ Hi! I'm **Joram Kate Leonardo**, a **Full Stack Web Developer** with **6+ years 
 - Architecting modern full-stack web applications with **Laravel 12**, **Inertia.js v2**, and **React 19 / Vue 3**
 - Building data analytics platforms and automated reporting pipelines using **Python 3.12 (Django 6, Pandas, Matplotlib, ReportLab)**
 - Implementing robust data integrity with **MySQL concurrency control**, exact-precision arithmetic, and polymorphic audit logs
-- Developing cross-platform mobile experiences with **Flutter & Dart**
 - Automated testing and test-driven development using **Pest** and **PHPUnit**
 
 ---
