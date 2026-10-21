@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=F43F5E&center=true&multiline=false&repeat=true&width=620&height=60&lines=Hi+there!+Welcome+to+my+profile+%E2%9C%A8;I'm+Joram+Kate+Leonardo!;Full+Stack+Web+Developer;Engineering+Modern+Scalable+Web+Systems;6%2B+years+of+coding+experience." 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=F43F5E&center=true&multiline=false&repeat=true&width=620&height=60&lines=Hi+there!+Welcome+to+my+profile+%E2%9C%A8;I'm+Joram+Kate+Leonardo!;Full+Stack+Web+Developer;Engineering+Modern+Scalable+Web+Systems;8%2B+years+of+coding+experience." 
       alt="Typing SVG Banner" 
     />
   </a>
@@ -39,7 +39,7 @@
     <td width="52%" valign="middle">
       <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="28" height="28" /> About Me</h3>
       <p>
-        Hi! I'm <strong>Joram Kate Leonardo</strong>, a passionate <strong>Full Stack Web Developer</strong> with <strong>6+ years of experience</strong> engineering, deploying, and maintaining high-concurrency, database-driven information systems.
+        Hi! I'm <strong>Joram Kate Leonardo</strong>, a passionate <strong>Full Stack Web Developer</strong> with <strong>8+ years of experience</strong> engineering, deploying, and maintaining high-concurrency, database-driven information systems.
       </p>
       <ul>
         <li>💼 <strong>Primary Tech:</strong> Laravel 12 & Inertia.js v2 paired with React 19 / Vue 3</li>
